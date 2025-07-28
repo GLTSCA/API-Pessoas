@@ -1,0 +1,26 @@
+{
+  "name": "api-pessoas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "test": "jest test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GLTSCA/API-Pessoas.git"
+  },
+  "author": "Gabriel Tavares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GLTSCA/API-Pessoas/issues"
+  },
+  "homepage": "https://github.com/GLTSCA/API-Pessoas#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^30.0.5"
+  }
+}
